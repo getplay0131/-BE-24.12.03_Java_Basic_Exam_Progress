@@ -5,18 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a71b03-3e0c-49e5-a2d9-b619a03756e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/BookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberConstruct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberConstruct3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberDefault.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/construct/MemberDefaultMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/CounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/CounterMain_review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/Item_review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/MaxCounter_review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/ShoppingCartMain_review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/Exam_241203/ShoppingCart_review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/SpeakerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/a/AccessData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/a/AccessInnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/a/PublicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/a/PublicClassInnerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/b/AccessOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/access_241203/b/PublicClsssOuterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/기본.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/기본.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/construct/ConstructMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/기본/construct/ConstructMain1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/기본/construct/ConstructMain1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[학원][자바]" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/ref/Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/ref/Method2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +87,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AccessInnerMain.executor": "Run",
+    "Application.AccessOuterMain.executor": "Run",
     "Application.AccountMain.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
     "Application.BookMain.executor": "Run",
     "Application.Check_variable_value.executor": "Run",
     "Application.ConstructMain1.executor": "Run",
     "Application.ConstructMain2.executor": "Run",
     "Application.ConstructMain3.executor": "Run",
+    "Application.CounterMain.executor": "Run",
+    "Application.CounterMain_review1.executor": "Run",
     "Application.MemberDefaultMain.executor": "Run",
     "Application.Method1.executor": "Run",
     "Application.Method2.executor": "Run",
@@ -98,8 +115,13 @@
     "Application.ProductOrderRefactoring_1.executor": "Run",
     "Application.ProductOrderRefactoring_improvement_1.executor": "Run",
     "Application.ProductOrderRefactoring_improvement_inputData_1.executor": "Run",
+    "Application.PublicClassInnerMain.executor": "Run",
+    "Application.PublicClsssOuterMain.executor": "Run",
     "Application.RectangleOopMain.executor": "Run",
     "Application.RectangleOopMain_imp1.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
+    "Application.ShoppingCartMain_review1.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
     "Application.ValueDataMain.executor": "Run",
     "Application.ValueObjectMain.executor": "Run",
     "Application.VarChange1.executor": "Run",
@@ -119,20 +141,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exam_241203" />
       <recent name="construct" />
       <recent name="Exam_241127" />
       <recent name="oop1" />
       <recent name="Exam_241126" />
-      <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookMain">
-    <configuration name="BookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.BookMain" />
+  <component name="RunManager" selected="Application.ShoppingCartMain_review1">
+    <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access_241203.BankAccountMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="access_241203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain1" />
+    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241203.CounterMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="Exam_241203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain2" />
+    <configuration name="CounterMain_review1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241203.CounterMain_review1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="Exam_241203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.ConstructMain3" />
+    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241203.ShoppingCartMain" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="Exam_241203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="construct.MemberDefaultMain" />
+    <configuration name="ShoppingCartMain_review1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam_241203.ShoppingCartMain_review1" />
       <module name="기본" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="construct.*" />
+          <option name="PATTERN" value="Exam_241203.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookMain" />
-        <item itemvalue="Application.ConstructMain3" />
-        <item itemvalue="Application.ConstructMain2" />
-        <item itemvalue="Application.MemberDefaultMain" />
-        <item itemvalue="Application.ConstructMain1" />
+        <item itemvalue="Application.ShoppingCartMain_review1" />
+        <item itemvalue="Application.ShoppingCartMain" />
+        <item itemvalue="Application.CounterMain_review1" />
+        <item itemvalue="Application.CounterMain" />
+        <item itemvalue="Application.BankAccountMain" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +286,11 @@
           <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
           <line>17</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/src/access_241203/a/PublicClass.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/basic/src/Exam_241127/Account.java</url>
